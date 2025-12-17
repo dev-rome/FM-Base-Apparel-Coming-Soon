@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Base Apparel Solution](https://www.frontendmentor.io/solutions/base-apparel-coming-soon-page-built-with-html-css-and-javascript-IWJEcHvv_H)
+- Live Site URL: [Base Apparel Site](https://heroic-hotteok-d0a9a2.netlify.app/)
 
 ## My process
 
@@ -43,10 +43,12 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- Grid
 - Mobile-first workflow
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [portfolio](https://jeromehaynes.com/)
+- Frontend Mentor - [@dev-rome](https://www.frontendmentor.io/profile/dev-rome)
+- Twitter - [@rome_dev](https://x.com/rome_dev)
+- Linkedin - [@dev-rome](https://www.linkedin.com/in/jerome-haynes/)
